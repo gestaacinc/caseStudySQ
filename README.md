@@ -1,75 +1,134 @@
-# caseStudySQ
 
-# Survey Questions
+## For Students
 
-## Quantitative Survey Questions
+These questions are designed to feel more personal and conversational, encouraging students to share their experiences openly.
 
-### For Students:
-1. **On a scale of 1 to 5, how effective do you find experiential learning (e.g., hands-on training, internships) in helping you acquire practical skills?**  
-   - 1 = Not effective at all  
-   - 5 = Extremely effective
+### Quantitative Questions
 
-2. **How often do you participate in experiential learning activities (e.g., internships, simulations, hands-on projects)?**  
+1. **On a scale of 1 to 5, how much do you feel that hands-on experiences like internships or projects have helped you gain the skills you need for your future career?**  
+   - 1 = Not at all  
+   - 5 = A lot
+
+2. **How often do you get to work on real-world tasks or projects as part of your classes?**  
    - 1 = Never  
    - 2 = Rarely  
    - 3 = Sometimes  
    - 4 = Often  
    - 5 = Always
 
-3. **To what extent do you feel experiential learning has improved your readiness for employment?**  
-   - 1 = Not at all  
-   - 5 = Significantly
+3. **How confident do you feel about entering the workforce after participating in hands-on learning activities?**  
+   - 1 = Not confident at all  
+   - 5 = Very confident
 
-4. **How satisfied are you with the quality of industry partnerships (e.g., internships, guest lectures) provided by GESTAAC?**  
-   - 1 = Very dissatisfied  
-   - 5 = Very satisfied
+### Qualitative Questions
 
-### For Faculty:
-5. **On a scale of 1 to 5, how prepared do you feel to implement experiential learning strategies in your classes?**  
-   - 1 = Not prepared at all  
-   - 5 = Extremely prepared
+4. **Can you tell us about a time when a hands-on experience (like an internship or a project) really helped you learn something important? What made it so meaningful for you?**
 
-6. **How often do you incorporate experiential learning activities (e.g., hands-on projects, industry visits) into your teaching?**  
-   - 1 = Never  
-   - 2 = Rarely  
-   - 3 = Sometimes  
-   - 4 = Often  
-   - 5 = Always
-
-7. **To what extent do you believe experiential learning improves student outcomes (e.g., skill acquisition, employability)?**  
-   - 1 = Not at all  
-   - 5 = Significantly
-
-### For Industry Partners:
-8. **On a scale of 1 to 5, how well do you think GESTAAC graduates are prepared for the workforce after participating in experiential learning programs?**  
-   - 1 = Not prepared at all  
-   - 5 = Extremely prepared
-
-9. **How satisfied are you with the collaboration between your industry and GESTAAC in providing experiential learning opportunities (e.g., internships, apprenticeships)?**  
-   - 1 = Very dissatisfied  
-   - 5 = Very satisfied
+5. **Have you faced any challenges while participating in hands-on learning activities? If so, how did you handle them, and what could have made the experience better?**
 
 ---
 
-## Qualitative Survey Questions
+## For Trainers (Faculty)
 
-### For Students:
-1. **Can you describe a specific experiential learning activity (e.g., internship, hands-on project) that had a significant impact on your learning? What made it impactful?**
+These questions are framed to encourage trainers to reflect on their experiences and share their thoughts in a conversational tone.
 
-2. **What challenges, if any, have you faced while participating in experiential learning activities? How did you overcome them?**
+### Quantitative Questions
 
-3. **How do you think experiential learning has influenced your career aspirations or employability? Please provide examples.**
+1. **On a scale of 1 to 5, how comfortable do you feel using hands-on teaching methods like projects or industry visits in your classes?**  
+   - 1 = Not comfortable at all  
+   - 5 = Very comfortable
 
-### For Faculty:
-4. **What are the biggest challenges you face when implementing experiential learning strategies in your classes? How do you address these challenges?**
+2. **How often do you include real-world tasks or projects in your teaching?**  
+   - 1 = Never  
+   - 2 = Rarely  
+   - 3 = Sometimes  
+   - 4 = Often  
+   - 5 = Always
 
-5. **Can you share an example of a successful experiential learning activity you have implemented? What made it successful?**
+3. **How much do you think hands-on learning helps your students succeed in their future careers?**  
+   - 1 = Not at all  
+   - 5 = A lot
 
-6. **What support or resources do you need to improve the implementation of experiential learning at GESTAAC?**
+### Qualitative Questions
 
-### For Industry Partners:
-7. **How do you think experiential learning at GESTAAC benefits your industry? Can you provide specific examples?**
+4. **What’s the biggest challenge you face when trying to include hands-on learning in your classes? How do you usually work around it?**
 
-8. **What suggestions do you have for improving the collaboration between GESTAAC and your industry in providing experiential learning opportunities?**
+5. **If you could change one thing to make hands-on learning easier or more effective at GESTAAC, what would it be?**
 
-9. **In your opinion, what skills or competencies do GESTAAC graduates gain from experiential learning that are most valuable in the workplace?**
+---
+
+## For Industry Partners
+
+These questions are designed to make industry partners feel like their input is valued and to encourage them to share their perspectives openly.
+
+### Quantitative Questions
+
+1. **On a scale of 1 to 5, how well do you think GESTAAC graduates are prepared for the workforce after participating in hands-on learning programs?**  
+   - 1 = Not prepared at all  
+   - 5 = Very prepared
+
+2. **How satisfied are you with the way GESTAAC collaborates with your industry to provide real-world experiences for students?**  
+   - 1 = Very dissatisfied  
+   - 5 = Very satisfied
+
+3. **How much do you think hands-on learning at GESTAAC benefits your industry?**  
+   - 1 = Not at all  
+   - 5 = A lot
+
+### Qualitative Questions
+
+4. **Can you share an example of how GESTAAC students have contributed to your industry through hands-on learning experiences? What stood out to you about their performance?**
+
+5. **What’s one thing GESTAAC could do to make its collaboration with your industry even better for students and employers alike?**
+
+---
+
+## Why These Humanized Questions Work
+
+1. **They’re conversational:** The questions feel less like a formal survey and more like a friendly conversation, which encourages respondents to open up.
+2. **They’re relatable:** By using phrases like “hands-on experiences” and “real-world tasks,” the questions resonate with the respondents’ everyday experiences.
+3. **They’re specific:** Each question asks for concrete examples or reflections, which helps gather richer, more detailed responses.
+4. **They’re actionable:** The qualitative questions ask for suggestions or improvements, which directly support your goal of developing practical recommendations.
+
+---
+
+## How These Humanized Questions Align with Your Objectives
+
+1. **Objective 1 (Identify and Analyze Experiential Learning Strategies):**
+   - **Students:** Questions about meaningful hands-on experiences.
+   - **Trainers:** Questions about comfort and frequency of using hands-on methods.
+   - **Industry Partners:** Questions about the value of hands-on learning for their industry.
+
+2. **Objective 2 (Evaluate Impact on Student Outcomes):**
+   - **Students:** Questions about skill development and confidence.
+   - **Trainers:** Questions about perceived impact on student success.
+   - **Industry Partners:** Questions about graduate preparedness.
+
+3. **Objective 3 (Compare Outcomes Between Experiential and Traditional Methods):**
+   - **Students:** Questions about the effectiveness of hands-on learning.
+   - **Trainers:** Questions about the impact of hands-on learning on student outcomes.
+
+4. **Objective 4 (Explore Stakeholder Perceptions):**
+   - **Students:** Questions about challenges and meaningful experiences.
+   - **Trainers:** Questions about challenges and needed support.
+   - **Industry Partners:** Questions about collaboration and suggestions for improvement.
+
+5. **Objective 5 (Identify Contextual Factors):**
+   - **Trainers:** Questions about challenges and resource needs.
+   - **Industry Partners:** Questions about collaboration and industry benefits.
+
+6. **Objective 6 (Develop Recommendations):**
+   - **Trainers:** Questions about needed support and resources.
+   - **Industry Partners:** Questions about suggestions for improving collaboration.
+
+---
+
+## Example of Humanized Combined Quantitative and Qualitative Question
+
+**For Students:**
+
+- **Quantitative:** On a scale of 1 to 5, how much do you feel that hands-on experiences like internships or projects have helped you gain the skills you need for your future career?
+- **Qualitative:** Can you tell us about a time when a hands-on experience really helped you learn something important? What made it so meaningful for you?
+
+---
+
